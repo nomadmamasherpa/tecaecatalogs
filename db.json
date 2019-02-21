@@ -1,0 +1,92 @@
+{
+	"grupos": [
+		{
+			"id": "helados",
+			"idGroup": "Helados",
+			"imgSrc": "helados.png",
+			"description": "Helados."
+		}
+	],
+	"marcas": [
+		{
+			"imgSrc":"clasico.png",
+			"description":"Clásicos",
+			"id":"clasico",
+			"idCategory":"holanda",
+			"title":"Clásicos"
+		},
+		{"imgSrc":"cornetto.png","description":"Cornetto","id":"cornetto","idCategory":"holanda","title":"Cornetto"},
+		{"imgSrc":"gelato.png","description":"Gelato","id":"gelato","idCategory":"holanda","title":"Gelato"},
+		{"imgSrc":"helado.png","description":"Helados","id":"helado","idCategory":"holanda","title":"Helado"},
+		{"imgSrc":"magnum.png","description":"Magnum","id":"magnum","idCategory":"holanda","title":"Magnum"},
+		{"imgSrc":"mordisko.png","description":"Mordisko","id":"mordisko","idCategory":"holanda","title":"Mordisko"},
+		{"imgSrc":"max.png","description":"Max Niños","id":"max","idCategory":"holanda","title":"Max Niños"},
+		{"imgSrc":"solero.png","description":"Solero","id":"solero","idCategory":"holanda","title":"Solero"}
+	],
+	"productos": [
+		{
+			"id":"HOL-CLA-CHM-45",
+			"idCategory":"holanda",
+			"idBrand":"clasico",
+			"sku":"HOL-CLA-CHM-45",
+			"description":"Chemisse",
+			"title":"Chemisse",
+			"imgSrc":"hol-chemisse.png",
+			"cost":"15",
+			"realCost":"2",
+			"costDisc":"13",
+			"size":"45",
+			"promo":true
+		},
+		{"id":"HOL-CLA-CHO-FRE-45","idCategory":"holanda","idBrand":"clasico","sku":"HOL-CLA-CHO-FRE-45","description":"Chococrem Fresa","title":"Chococrem Fresa","imgSrc":"hol-chococrem-fre.png","cost":"20","realCost":"2","costDisc":"18","size":"45","promo":false},
+		{"id":"HOL-CLA-CHO-CHO-45","idCategory":"holanda","idBrand":"clasico","sku":"HOL-CLA-CHO-CHO-45","description":"Chococrem Chocolate","title":"Chococrem Chocolate","imgSrc":"hol-chococrem-cho.png","cost":"19","realCost":"4","costDisc":"15","size":"45","promo":true},
+		{"id":"HOL-RLA-RHM-56","idCategory":"holanda","idBrand":"clasico","sku":"HOL-RLA-RHM-56","description":"Raspatito","title":"Raspatito","imgSrc":"hol-raspatito.png","cost":"16","realCost":"2","costDisc":"14","size":"56","promo":false},
+		{"id":"HOL-CLA-COR-CON-45","idCategory":"holanda","idBrand":"cornetto","sku":"HOL-CLA-COR-CON-45","description":"Cornetto Cono","title":"Cornetto Cono","imgSrc":"hol-cornetto-cono.png","cost":"22","realCost":"4","costDisc":"18","size":"45","promo":false},
+		{"id":"HOL-CLA-COR-COP-45","idCategory":"holanda","idBrand":"cornetto","sku":"HOL-CLA-COR-COP-45","description":"Cornetto Copa","title":"Cornetto Copa","imgSrc":"hol-cornetto-copa.png","cost":"19","realCost":"3","costDisc":"16","size":"45","promo":false},
+		{"id":"HOL-CLA-COR-HER-45","idCategory":"holanda","idBrand":"cornetto","sku":"HOL-CLA-COR-HER-45","description":"Cornetto Hershey´s","title":"Cornetto Hershey´s","imgSrc":"hol-cornetto-hersheys.png","cost":"24","realCost":"4","costDisc":"20","size":"45","promo":false},
+		{"id":"HOL-CLA-COR-ORE-45","idCategory":"holanda","idBrand":"cornetto","sku":"HOL-CLA-COR-ORE-45","description":"Cornetto Oreo","title":"Cornetto Oreo","imgSrc":"hol-cornetto-oreo.png","cost":"19","realCost":"2","costDisc":"17","size":"45","promo":true},
+		{"id":"HOL-CLA-CHM-45","idCategory":"holanda","idBrand":"gelato","sku":"HOL-CLA-CHM-45","description":"Chocolatíssimo","title":"Chocolatíssimo","imgSrc":"hol-chocolatissimo.png","cost":"19","realCost":"2","costDisc":"17","size":"45","promo":false},
+		{"id":"HOL-FLA-FHM-425","idCategory":"holanda","idBrand":"gelato","sku":"HOL-FLA-FHM-425","description":"Frágola","title":"Frágola","imgSrc":"hol-fragola.png","cost":"20","realCost":"2","costDisc":"18","size":"425","promo":true},
+		{"id":"HOL-GLA-GHM-425","idCategory":"holanda","idBrand":"gelato","sku":"HOL-GLA-GHM-425","description":"Gianduia","title":"Gianduia","imgSrc":"hol-gianduia.png","cost":"23","realCost":"3","costDisc":"20","size":"425","promo":false},
+		{"id":"HOL-HEL-CHA-425","idCategory":"holanda","idBrand":"helado","sku":"HOL-HEL-CHA-425","description":"Chips Ahoy","title":"Chips Ahoy","imgSrc":"hol-chips-ahoy.png","cost":"23","realCost":"2","costDisc":"21","size":"425","promo":false},
+		{"id":"HOL-MLA-MAM-425","idCategory":"holanda","idBrand":"helado","sku":"HOL-MLA-MAM-425","description":"M&M","title":"M&M","imgSrc":"hol-m-and-m.png","cost":"24","realCost":"3","costDisc":"21","size":"425","promo":false},
+		{"id":"HOL-MLA-MHM-425","idCategory":"holanda","idBrand":"helado","sku":"HOL-MLA-MHM-425","description":"Mordisko","title":"Mordisko","imgSrc":"hol-mordisko.png","cost":"21","realCost":"4","costDisc":"17","size":"425","promo":false},
+		{"id":"HOL-OLA-OHM-425","idCategory":"holanda","idBrand":"helado","sku":"HOL-OLA-OHM-425","description":"Oreo","title":"Oreo","imgSrc":"hol-oreo.png","cost":"16","realCost":"4","costDisc":"12","size":"425","promo":true},
+		{"id":"HOL-VLA-VHM-425","idCategory":"holanda","idBrand":"helado","sku":"HOL-VLA-VHM-425","description":"Vainilla","title":"Vainilla","imgSrc":"hol-vainilla.png","cost":"20","realCost":"4","costDisc":"16","size":"425","promo":false},
+		{"id":"HOL-ALA-AHM-68","idCategory":"holanda","idBrand":"magnum","sku":"HOL-ALA-AHM-68","description":"Almendras","title":"Almendras","imgSrc":"hol-almendras.png","cost":"22","realCost":"3","costDisc":"19","size":"68","promo":false},
+		{"id":"HOL-CLA-CLS-68","idCategory":"holanda","idBrand":"magnum","sku":"HOL-CLA-CLS-68","description":"Clásica","title":"Clásica","imgSrc":"hol-clasica.png","cost":"24","realCost":"2","costDisc":"22","size":"68","promo":true},
+		{"id":"HOL-CLA-CHM-68","idCategory":"holanda","idBrand":"magnum","sku":"HOL-CLA-CHM-68","description":"Cookies and Cream","title":"Cookies and Cream","imgSrc":"hol-cookies.png","cost":"21","realCost":"3","costDisc":"18","size":"68","promo":false},
+		{"id":"HOL-PLA-PHM-68","idCategory":"holanda","idBrand":"magnum","sku":"HOL-PLA-PHM-68","description":"Praliné","title":"Praliné","imgSrc":"hol-praline.png","cost":"18","realCost":"2","costDisc":"16","size":"68","promo":true},
+		{"id":"HOL-RLA-RHM-68","idCategory":"holanda","idBrand":"magnum","sku":"HOL-RLA-RHM-68","description":"Red Velvet","title":"Red Velvet","imgSrc":"hol-redvelvet.png","cost":"19","realCost":"4","costDisc":"15","size":"68","promo":false},
+		{"id":"HOL-YLA-YHM-68","idCategory":"holanda","idBrand":"magnum","sku":"HOL-YLA-YHM-68","description":"Yogurt Supremo","title":"Yogurt Supremo","imgSrc":"hol-yogurtsupremo.png","cost":"17","realCost":"3","costDisc":"14","size":"68","promo":false},
+		{"id":"HOL-BLA-BHM-68","idCategory":"holanda","idBrand":"mordisko","sku":"HOL-BLA-BHM-68","description":"Brownie","title":"Brownie","imgSrc":"hol-brownie.png","cost":"15","realCost":"3","costDisc":"12","size":"68","promo":false},
+		{"id":"HOL-CLA-CHM-68","idCategory":"holanda","idBrand":"mordisko","sku":"HOL-CLA-CHM-68","description":"Chocopop","title":"Chocopop","imgSrc":"hol-chocopop.png","cost":"16","realCost":"4","costDisc":"12","size":"68","promo":false},
+		{"id":"HOL-CLA-MOR-68","idCategory":"holanda","idBrand":"mordisko","sku":"HOL-CLA-MOR-68","description":"Clásico","title":"Clásico","imgSrc":"hol-mor-clasico.png","cost":"21","realCost":"3","costDisc":"18","size":"68","promo":true},
+		{"id":"HOL-ALA-AHM-36","idCategory":"holanda","idBrand":"max","sku":"HOL-ALA-AHM-36","description":"Apolo","title":"Apolo","imgSrc":"hol-apolo.png","cost":"21","realCost":"3","costDisc":"18","size":"36","promo":false},
+		{"id":"HOL-BLA-BHM-36","idCategory":"holanda","idBrand":"max","sku":"HOL-BLA-BHM-36","description":"Bubbaloo","title":"Bubbaloo","imgSrc":"hol-bubbaloo.png","cost":"15","realCost":"3","costDisc":"12","size":"36","promo":true},
+		{"id":"HOL-KLA-KHM-36","idCategory":"holanda","idBrand":"max","sku":"HOL-KLA-KHM-36","description":"Kolorix","title":"Kolorix","imgSrc":"hol-kolorix.png","cost":"15","realCost":"2","costDisc":"13","size":"36","promo":false},
+		{"id":"HOL-MLA-MHM-36","idCategory":"holanda","idBrand":"max","sku":"HOL-MLA-MHM-36","description":"Minichoc","title":"Minichoc","imgSrc":"hol-minichoc.png","cost":"16","realCost":"3","costDisc":"13","size":"36","promo":false},
+		{"id":"HOL-PLA-PHM-36","idCategory":"holanda","idBrand":"max","sku":"HOL-PLA-PHM-36","description":"Pelón Pelo Rico","title":"Pelón Pelo Rico","imgSrc":"hol-pelon.png","cost":"18","realCost":"2","costDisc":"16","size":"36","promo":false},
+		{"id":"HOL-LLA-LHM-36","idCategory":"holanda","idBrand":"solero","sku":"HOL-LLA-LHM-36","description":"Limón Citrus","title":"Limón Citrus","imgSrc":"hol-limoncitrus.png","cost":"21","realCost":"4","costDisc":"17","size":"36","promo":false},
+		{"id":"HOL-FLA-FRE-36","idCategory":"holanda","idBrand":"solero","sku":"HOL-FLA-FRE-36","description":"Fresa","title":"Fresa","imgSrc":"hol-fresa.png","cost":"21","realCost":"4","costDisc":"17","size":"36","promo":true},
+		{"id":"HOL-FLA-FRR-36","idCategory":"holanda","idBrand":"solero","sku":"HOL-FLA-FRR-36","description":"Frutos Rojos","title":"Frutos Rojos","imgSrc":"hol-frutosrojos.png","cost":"15","realCost":"3","costDisc":"12","size":"36","promo":false},
+		{"id":"HOL-MLA-MHM-36","idCategory":"holanda","idBrand":"solero","sku":"HOL-MLA-MHM-36","description":"Mango","title":"Mango","imgSrc":"hol-mango.png","cost":"24","realCost":"3","costDisc":"21","size":"36","promo":false},
+		{"id":"HOL-ULA-UHM-36","idCategory":"holanda","idBrand":"solero","sku":"HOL-ULA-UHM-36","description":"Uva","title":"Uva","imgSrc":"hol-uva.png","cost":"16","realCost":"3","costDisc":"13","size":"36","promo":false}
+	],
+	"promociones": [
+		{
+			"imgSrc":"promo-helados-solero.png",
+			"id":"201811081523P",
+			"register":"20181108-1523",
+			"brandId":"helados/solero",
+			"status":"A"
+		},
+		{
+			"imgSrc":"promo-helados-magnum.png",
+			"id":"201811081523P",
+			"register":"20181108-1523",
+			"brandId":"helados/magnum",
+			"status":"A"
+		}
+	]
+}
